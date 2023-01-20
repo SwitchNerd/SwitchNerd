@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SwitchNerd
-- 👀 I’m interested in ...
+Gmorning USA (I am very far from America)
 - 🌱 I’m currently learning Javascript (Node.js And more)
 - 💞️ I’m looking to collaborate on anything :(
 - 📫 How to reach me Jswitch#9804
