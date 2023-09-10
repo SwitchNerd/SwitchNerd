@@ -1,7 +1,6 @@
-Gmorning USA (I am very far from America)
-- 🌱 I’m currently learning Javascript (Node.js And more)
+- 🌱 I’m currently learning Javascript (Node.js, Python and more)
 - 💞️ I’m looking to collaborate on anything :(
-- 📫 How to reach me Jswitch#9804 <-- This is discord.gg btw
+- 📫 How to reach me Jswitch#9804 
 
 <!---
 SwitchNerd/SwitchNerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
