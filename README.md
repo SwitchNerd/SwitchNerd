@@ -1,5 +1,4 @@
 - 🌱 I’m currently learning Javascript (Node.js, Python and more)
-- 💞️ I’m looking to collaborate on anything :(
 - 📫 How to reach me Jswitch#9804 
 
 <!---
